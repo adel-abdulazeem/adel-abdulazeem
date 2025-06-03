@@ -96,15 +96,5 @@ You can reach me at: [adel_abdulazeem@outlook.com](mailto:adel_abdulazeem@outloo
 
 ![Codewars](https://github.r2v.ch/codewars?user=Adel%20Abdulazeem&name=true&top_languages=true)
 
-## Examples:
-Take a look at some of my work examples:
 
-[MediPrep data management system](https://github.com/adel-abdulazeem/MediPrep)
- [StarGazers APOD Web App](https://nasa-picture-every-day.netlify.app/)
-
- [PlantPicker Project](https://github.com/adel-abdulazeem/PlantPicker)
-
- [ChatApp](https://github.com/adel-abdulazeem/chatApp)
- 
- [Task Tracker](https://github.com/adel-abdulazeem/task-tracker)
 
